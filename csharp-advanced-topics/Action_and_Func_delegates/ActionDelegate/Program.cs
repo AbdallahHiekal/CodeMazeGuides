@@ -7,6 +7,7 @@
             Action<int> PrintNumber = ConsolePrintNumber;
             PrintNumber(2);
         }
+
         private static void ConsolePrintNumber(int num1)
         {
             Console.WriteLine(num1);

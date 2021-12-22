@@ -8,6 +8,7 @@
             int result = Multiply(2, 3);
             Console.WriteLine(result);
         }
+
         private static int Multiplication(int num1, int num2)
         {
             return num1 * num2;
